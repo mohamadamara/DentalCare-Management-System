@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DentalCareImport>
+    <Supplier>
+        <SupplierName>Dental Supply Co.</SupplierName>
+        <ContactPerson>Sarah Green</ContactPerson>
+        <Phone>0501234567</Phone>
+        <Email>info@dentalco.com</Email>
+        <SupplierAddress>123 Herzl St, Tel Aviv</SupplierAddress>
+    </Supplier>
+
+    <Item>
+        <ItemName>Toothbrush A</ItemName>
+        <Description>Soft bristle toothbrush</Description>
+        <CategoryID>1</CategoryID>
+        <Quantity>150</Quantity>
+        <Supplier>Dental Supply Co.</Supplier>
+        <SerialNumber>TB-A-001</SerialNumber>
+        <ExpirationDate>2026-01-01</ExpirationDate>
+    </Item>
+
+    <Item>
+        <ItemName>Gloves Medium</ItemName>
+        <Description>Latex gloves, medium size</Description>
+        <CategoryID>2</CategoryID>
+        <Quantity>300</Quantity>
+        <Supplier>Dental Supply Co.</Supplier>
+        <SerialNumber>GL-M-002</SerialNumber>
+        <ExpirationDate>2025-11-30</ExpirationDate>
+    </Item>
+</DentalCareImport>
